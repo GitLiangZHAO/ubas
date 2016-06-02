@@ -16,7 +16,7 @@ import cn.jikexueyuan.ubas.util.SystemConfig;
  *
  * @Author dengjie
  *
- * @Note Test hadoop cluster with hdfs ha
+ * @Note Test hadoop cluster with hdfs haliang
  */
 public class HDFSTest {
 
