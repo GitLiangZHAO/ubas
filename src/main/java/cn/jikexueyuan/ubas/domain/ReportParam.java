@@ -3,7 +3,7 @@ package cn.jikexueyuan.ubas.domain;
 import com.google.gson.Gson;
 
 /**
- * @Date Mar 25, 2015
+ * @Date Mar 25, 2015  1.0 bug fixed test
  *
  * @Author dengjie
  *

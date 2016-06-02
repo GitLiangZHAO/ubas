@@ -7,7 +7,7 @@ import cn.jikexueyuan.ubas.domain.ReportParam;
 import cn.jikexueyuan.ubas.service.Mapper;
 
 /**
- * @Date Mar 24, 2015
+ * @Date Mar 24, 2015   1.0bug fixed test
  *
  * @Author dengjie
  *
