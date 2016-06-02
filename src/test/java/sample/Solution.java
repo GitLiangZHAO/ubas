@@ -3,7 +3,7 @@ package sample;
 public class Solution {
 
 	public int solution(IntList L) {
-		// write your code in Java SE 8
+		// write your code in Java SE 8  liang's change
 		if (L.next == null) {
 			return 1;
 		}
