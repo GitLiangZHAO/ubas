@@ -11,7 +11,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 import cn.jikexueyuan.ubas.util.LogUtils;
 
 /**
- * @Date May 25, 2015
+ * @Date May 25, 2015   1.2 version release
  *
  * @Author dengjie
  *
